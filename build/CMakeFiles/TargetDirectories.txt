@@ -1,0 +1,1 @@
+/usr/local/geant/geant4.9.6.p03/examples/basic/B4/B4a/build/CMakeFiles/exampleB4a.dir
